@@ -1,2 +1,2 @@
 commit 2
-hotfix1
+hotfix2
